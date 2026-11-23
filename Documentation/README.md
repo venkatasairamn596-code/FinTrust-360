@@ -152,4 +152,4 @@ FinTrust 360 demonstrates robust data analytics execution, cross-platform valida
 
 ## Dashboard Preview
 
-![FinTrust 360 Dashboard](Documentation/FinTrust_360_Dashboard.png)
+![FinTrust 360 Dashboard](FinTrust_360_Dashboard.png)
