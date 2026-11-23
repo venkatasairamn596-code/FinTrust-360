@@ -149,3 +149,7 @@ FinTrust_360/
 ## 10. Conclusion
 
 FinTrust 360 demonstrates robust data analytics execution, cross-platform validation, and business insight delivery. By identifying and resolving subtle data definition discrepancies between SQL and Power BI, the project provides verified, high-confidence intelligence to improve consumer satisfaction and compliance outcomes.
+
+## Dashboard Preview
+
+![FinTrust 360 Dashboard](Documentation/FinTrust_360_Dashboard.png)
