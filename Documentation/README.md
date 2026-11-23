@@ -1,5 +1,6 @@
 # FinTrust 360 – Financial Customer Complaints & Response Analytics
 
+
 ## 1. Project Overview
 
 **FinTrust 360** is a comprehensive Data Analytics internship capstone project designed to analyze consumer financial complaints, regulatory compliance, and institutional response performance.
